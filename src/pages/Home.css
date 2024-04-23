@@ -1,0 +1,66 @@
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  margin-top: 5px;
+  background-color: #ffc300;
+  border-radius: 2%;
+  font-family: "Exo 2";
+}
+
+.vetor {
+  height: 30px;
+  width: 50px;
+}
+
+.container-logo {
+  max-width: 800px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  height: 150px;
+  border-radius: 50%;
+}
+
+.job-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+.job {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 30px;
+  margin: 15px;
+}
+
+.job h1 {
+  margin-top: 0;
+  font-size: 24px;
+}
+
+.job p {
+  font-size: 16px;
+}
+
+.job button {
+  font-size: 16px;
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.job button:hover {
+  background-color: #45a049;
+}
+
+.contato {
+  font-size: 16px;
+}
