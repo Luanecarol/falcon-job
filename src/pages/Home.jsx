@@ -4,7 +4,11 @@ const Home = () => {
   return (
     <div className="container">
       <div className="container-logo">
-        <img className="logo" src="/terraplanagem.png" alt="logo" />
+        <img
+          className="logo"
+          src={"public/images/terraplanagem.png"}
+          alt="logo"
+        />
         <h1>Lista de Vagas</h1>
       </div>
       <div className="job-container">
