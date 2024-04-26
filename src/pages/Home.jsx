@@ -1,14 +1,12 @@
 import "./Home.css";
+import { Analytics } from "@vercel/analytics/react";
 
 const Home = () => {
   return (
     <div className="container">
+      <Analytics />
       <div className="container-logo">
-        <img
-          className="logo"
-          src={"public/images/terraplanagem.png"}
-          alt="logo"
-        />
+        <img className="logo" src={"images/terraplanagem.png"} alt="logo" />
         <h1>Lista de Vagas</h1>
       </div>
       <div className="job-container">
