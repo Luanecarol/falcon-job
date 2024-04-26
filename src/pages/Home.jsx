@@ -15,7 +15,7 @@ const Home = () => {
           <p>descrição: empresa tal contrata funcionário tal para tal coisa</p>
           <p className="contato">contato: 999999</p>
           <p>
-            <img className="vetor" src="./big-money-bag.svg" alt="money" />
+            <img className="vetor" src={"images/salary.svg"} alt="money" />
             Salário a combinar
           </p>
           <button>Candidatar</button>
@@ -25,7 +25,7 @@ const Home = () => {
           <p>descrição: empresa tal contrata funcionário tal para tal coisa</p>
           <p className="contato">contato: 999999</p>
           <p>
-            <img className="vetor" src="./big-money-bag.svg" alt="money" />
+            <img className="vetor" src={"images/salary.svg"} alt="money" />
             Salário a combinar
           </p>
           <button>Candidatar</button>
@@ -38,7 +38,7 @@ const Home = () => {
           <p>descrição: empresa tal contrata funcionário tal para tal coisa</p>
           <p className="contato">contato: 999999</p>
           <p>
-            <img className="vetor" src="./big-money-bag.svg" alt="money" />
+            <img className="vetor" src={"images/salary.svg"} alt="money" />
             Salário a combinar
           </p>
           <button>Candidatar</button>
@@ -48,7 +48,7 @@ const Home = () => {
           <p>descrição: empresa tal contrata funcionário tal para tal coisa</p>
           <p className="contato">contato: 999999</p>
           <p>
-            <img className="vetor" src="./big-money-bag.svg" alt="money" />
+            <img className="vetor" src={"images/salary.svg"} alt="money" />
             Salário a combinar
           </p>
           <button>Candidatar</button>
