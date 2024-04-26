@@ -4,9 +4,9 @@ const Home = () => {
   return (
     <div className="container">
       <div className="container-logo">
-        <img className="logo" src="terraplanagem.png" alt="kk" />
+        <img className="logo" src="public/terraplanagem.png" alt="logo" />
+        <h1>Lista de Vagas</h1>
       </div>
-      <h1>Lista de Vagas</h1>
       <div className="job-container">
         <div className="job">
           <h1>Operador de escavadeira</h1>
