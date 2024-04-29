@@ -37,10 +37,10 @@
   border-radius: 10px;
   padding: 30px;
   margin: 15px;
-  display: flex; /* Adicionando display flex */
-  flex-direction: column; /* Definindo a direção do flex como coluna */
-  justify-content: center; /* Centralizando verticalmente */
-  align-items: center; /* Centralizando horizontalmente */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .job h1 {
